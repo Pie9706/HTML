@@ -13,5 +13,3 @@ decrementaButton.addEventListener("click", function () {
     alert("il valore non può essere inferiore a 0");
   }
 });
-
-valoreContatore;
