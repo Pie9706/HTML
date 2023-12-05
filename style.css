@@ -16,9 +16,19 @@ body {
   justify-content: center;
 }
 
-#circle {
+#button1 {
   background: lightblue;
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
+}
+
+#button2 {
+  background: lightblue;
+  width: 80px;
+  height: 80px;
+}
+
+#contatore {
+  padding-left: 20px;
+  padding-right: 20px;
 }
